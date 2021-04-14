@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Codigo/TestSoftplan.Test/bin/Debug/netcoreapp3.1
+/Codigo/TestSoftplan.Test/obj
+/Codigo/TestSoftplan.Test/TestSoftplan.Test.csproj.user
+/Codigo/.vs/TestSoftplan/v16
