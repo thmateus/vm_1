@@ -7,3 +7,7 @@
 /Codigo/TestSoftplan.Test/obj
 /Codigo/TestSoftplan.Test/TestSoftplan.Test.csproj.user
 /Codigo/.vs/TestSoftplan/v16
+/Codigo/TestSoftplan.CalculoJuros/bin/Debug/netcoreapp3.1
+/Codigo/TestSoftplan.CalculoJuros/obj
+/Codigo/TestSoftplan.TaxaJuros/bin/Debug/netcoreapp3.1
+/Codigo/TestSoftplan.TaxaJuros/obj
